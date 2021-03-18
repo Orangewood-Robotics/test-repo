@@ -1,3 +1,1 @@
-Adding more updates
-
-Deleted lines
+Creating a merge conflict
