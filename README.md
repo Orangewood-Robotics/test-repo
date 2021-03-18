@@ -1,10 +1,5 @@
-
-
-
-
-KEEP THIS CODE - VSC
-
-
+Delete this code - WEB
 Keep this code - WEB
-Keep - WEB
 
+DELETE - WEB
+KEEP - WEB
