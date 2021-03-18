@@ -1,13 +1,6 @@
+ANOTHER merge conflict
 
-testing
-hi eddie
-
-Made another change
-
-
-
-
-
-
-Creating a merge conflict
-
+DELETE THIS CODE
+ 
+ 
+ KEEP THIS CODE
