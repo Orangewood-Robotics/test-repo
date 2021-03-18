@@ -1,3 +1,4 @@
+
 testing
 hi eddie
 
@@ -8,7 +9,5 @@ Made another change
 
 
 
+Creating a merge conflict
 
-ADDED LIESN
-
-ADDED LINES. MADE CHANGES
